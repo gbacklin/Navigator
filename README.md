@@ -1,2 +1,3 @@
 # Navigator
-Example Swift Package
+
+A description of this package.
