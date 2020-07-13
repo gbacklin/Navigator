@@ -1,0 +1,2 @@
+# Navigator
+Example Swift Package
